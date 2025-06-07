@@ -10,7 +10,7 @@
 
 📫 How to reach me:  
 LinkedIn – [linkedin.com/in/vicky-data](https://www.linkedin.com/in/vicky-data)  
-Email – vicky.datascience@gmail.com
+Email – 95vigneshtmn@gmail.com
 
 😄 Pronouns: He/Him
 
