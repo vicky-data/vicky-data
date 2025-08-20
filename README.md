@@ -1,121 +1,190 @@
-# 👋 Hi, I’m Vigneshwaran (@vicky-data)
+👋 Hi, I’m Vigneshwaran (@vicky-data)
 
-👀 I’m interested in Data Science, Machine Learning, BFSI Analytics, and solving real-world business problems with data.
+👀 I’m interested in Data Analytics, Business Intelligence, BFSI Analytics, and solving real-world business problems with data.
 
-🌱 I’m currently learning advanced machine learning, time series forecasting, and Generative AI to enhance my portfolio.
+🌱 I’m currently learning advanced analytics, time series forecasting, and Generative AI to enhance my portfolio.
 
-💼 I’ve built projects in customer segmentation, loan default prediction, and time series forecasting — focused on delivering business insights.
+💼 I’ve built projects in vendor analysis, churn analytics, financial data analysis, and credit risk modeling — focused on delivering actionable business insights.
 
 💞️ I’m looking to collaborate on real-world analytics and ML projects, especially in finance, retail, or supply chain domains.
 
-📫 How to reach me:  
-LinkedIn – [linkedin.com/in/vicky-data](https://www.linkedin.com/in/vicky-data)  
+📫 How to reach me:
+LinkedIn – linkedin.com/in/vicky-data
+
 Email – 95vigneshtmn@gmail.com
 
 😄 Pronouns: He/Him
 
-⚡ Fun fact: I started my journey in civil engineering but pivoted to data science to build models that impact millions. I love storytelling with data just as much as building models.
+⚡ Fun fact: I started my journey in civil engineering but pivoted to data analytics to uncover insights that impact millions. I love storytelling with data just as much as building models.
 
-<!---
-vicky-data/vicky-data is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-# ✅ Project 1: Customer Segmentation
+✅ Project 1: Vendor Performance Analysis
+🛒 Vendor Performance Analysis – Retail/Wholesale
 
-## 🛍️ Customer Segmentation using K-Means Clustering
+Python | Power BI | SQL | EDA
 
-This project applies unsupervised learning (K-Means clustering) to segment customers based on their purchasing behavior. The analysis helps businesses tailor marketing strategies, target promotions, and improve customer retention.
+This project analyzes vendor performance, inventory turnover, and profitability in the retail/wholesale industry. The goal is to help businesses optimize profitability, reduce risks from vendor dependency, and improve operational efficiency.
 
-### 📌 Problem Statement
-Segment retail customers into distinct groups using demographic and behavioral features, enabling personalized marketing and data-driven decision-making.
+📑 Business Problem
 
-### 🧰 Tools & Libraries
-- Python, Pandas, NumPy
-- Scikit-learn (KMeans, PCA)
-- Seaborn, Matplotlib
+Underperforming vendors dragging profitability
 
-### 📊 Workflow
-1. Data Cleaning & Feature Engineering
-2. Exploratory Data Analysis (EDA)
-3. Dimensionality Reduction (PCA)
-4. Clustering using K-Means
-5. Segment Profiling & Business Recommendations
+Over-reliance on top suppliers
 
-### 📈 Results
-- 3 distinct customer segments identified:
-  - **Cluster 1**: High-income, few purchases, premium buyers
-  - **Cluster 2**: Mid-income, frequent buyers
-  - **Cluster 3**: Low-income, discount-driven families
-- Recommendations provided for targeted marketing campaigns.
+High holding costs due to slow-moving inventory
 
-### 📎 Dataset
-[Kaggle - Customer Personality Analysis](https://www.kaggle.com/imakash3011/customer-personality-analysis)
+Profitability variance across vendors
 
-### 🔗 GitHub Repo
-https://github.com/vicky-data/Customer-Segmentation
+🔎 Key Insights
 
-# ✅ Project 2: Loan Status Prediction
+Top 10 vendors contribute 65.7% of purchases → dependency risk
 
-## 🏦 Loan Status Prediction (with GUI)
+Bulk purchasing yields 72% lower unit costs
 
-This end-to-end ML project predicts loan approval status using classification algorithms and includes a deployed GUI for user input and predictions.
+Slow-moving inventory locks $2.71M of capital
 
-### 📌 Problem Statement
-Predict whether a loan application will be approved based on applicant profiles, income, credit history, and loan-related details.
+Low-volume vendors have pricing inefficiencies despite higher margins
 
-### 🧰 Tools & Libraries
-- Python, Pandas, Scikit-learn
-- Random Forest, Logistic Regression, SVC
-- Tkinter (GUI), Matplotlib
+Statistical tests confirmed significant profitability differences
 
-### 📊 Workflow
-1. Data Cleaning & EDA
-2. Feature Engineering & Encoding
-3. Model Training & Evaluation
-4. Hyperparameter Tuning (RandomizedSearchCV)
-5. Cross-Validation (K-Fold)
-6. GUI Deployment using Tkinter
+📊 Visual Insights
 
-### ⚙️ Key Insights
-- **Credit History** was the most influential factor.
-- **Random Forest** achieved the best accuracy (~80%).
-- GUI allows users to predict approval status using form inputs.
+Correlation heatmaps (sales, profit, cost)
 
-### 📎 Dataset
-From open-source loan datasets (can link if available)
+Profit margin distributions
 
-### 🔗 GitHub Repo
-https://github.com/vicky-data/Loan-Status-Prediction
+Vendor-level performance comparison
 
-# ✅ Project 3: Air Passenger Forecasting
+Power BI Dashboard with interactive drill-downs
 
-## ✈️ Air Passenger Forecasting using Auto ARIMA
+🚀 Recommendations
 
-This project uses time series forecasting (ARIMA) to predict monthly international air passenger volumes based on historical trends from 1949–1960.
+Diversify vendor base to reduce dependency
 
-### 📌 Problem Statement
-Forecast future passenger demand to assist airlines and travel planners in capacity, logistics, and pricing strategies.
+Optimize pricing for low-volume, high-margin vendors
 
-### 🧰 Tools & Libraries
-- Python, Pandas
-- pmdarima (auto_arima)
-- Matplotlib
+Leverage bulk purchase discounts
 
-### 📊 Workflow
-1. Time Series Decomposition & Visualization
-2. Stationarity Checks
-3. Parameter Tuning with `auto_arima`
-4. Model Training & Forecasting
-5. Evaluation & Trend Analysis
+Reduce unsold stock via clearance, forecasting
 
-### 📈 Key Insights
-- Seasonality and trend captured accurately.
-- Forecast for 1961: ~430K to 630K monthly passengers.
-- Project highlights real-world use of forecasting in aviation and logistics.
+Boost marketing/distribution for weak vendors
 
-### 📎 Dataset
-Air Passengers Dataset (classic time series dataset)
+🔗 GitHub Repo: https://github.com/vicky-data/Vendor-Performance-Analysis..git
 
-### 🔗 GitHub Repo
-https://github.com/vicky-data/Air-Passenger-Forecasting
+✅ Project 2: Customer Churn Analysis
+📉 Customer Churn Dashboard with ML
 
+Python | Power BI | SQL | EDA | ML
+
+This project predicts customer churn using machine learning and presents insights in an interactive Power BI dashboard.
+
+📊 Key Findings
+
+Churn Rate: 27% (needs urgent attention)
+
+High-risk segments: Females, age 20–35, tenure <18 months
+
+Contract Type: Month-to-month → highest churn (46.5%)
+
+Payment Method: Mailed check users churn the most (37.8%)
+
+Geography: J&K, Assam, Jharkhand have highest churn rates
+
+Services: Lack of device protection/tech support correlates with higher churn
+
+🔮 Prediction Model
+
+Logistic Regression & Random Forest used
+
+Identified 377 high-risk customers with attributes like monthly charge, tenure, payment type
+
+💡 Recommendations
+
+Convert customers to annual contracts with discounts
+
+Target retention campaigns for females (20–35, 6–18 months tenure)
+
+Move check/bank withdrawal users to digital auto-pay
+
+Upsell device protection & security plans
+
+Investigate low-charge, high-referral customers leaving → possible dissatisfaction
+
+🔗 GitHub Repo: https://github.com/vicky-data/Customer-Churn-Analysis---Project.git
+
+✅ Project 3: Bank Loan Analysis
+🏦 Loan Application & Risk Analysis
+
+SQL | Power BI
+
+This project focuses on analyzing loan applications to uncover trends in borrower behavior and repayment patterns.
+
+📈 High-Level Metrics
+
+Total Loan Applications: 38.6K
+
+Funded Amount: $435.8M
+
+Amount Received: $473.1M
+
+Avg Interest Rate: 12%
+
+Avg DTI: 13.3%
+
+🔎 Key Insights
+
+Loan demand nearly doubled in one year
+
+Debt consolidation = top reason (18K loans)
+
+Long-term loans (60 months) preferred by 73% of applicants
+
+Largest group: applicants with 10+ years of employment
+
+Geographic concentration: Eastern & Central U.S.
+
+💡 Business Impact
+
+Focus product offerings on debt consolidation
+
+Optimize pricing/risk models for 60-month loans
+
+Develop strategies for renters & mortgage holders
+
+Target acquisition campaigns in high-demand regions
+
+🔗 GitHub Repo: https://github.com/vicky-data/Bank-Loan-Analysis-project.git
+
+✅ Project 4: Loan Default Prediction
+⚠️ Loan Default Risk Modeling
+
+Python | EDA | ML
+
+Financial institutions face significant challenges in managing credit risk. This project predicts likelihood of borrower default using historical loan data.
+
+🎯 Objectives
+
+Identify high-risk borrowers
+
+Enable better credit decision-making
+
+Reduce financial losses from defaults
+
+🛠 Workflow
+
+Data Cleaning & Preparation
+
+Exploratory Data Analysis (EDA)
+
+Feature Engineering
+
+Model Development & Insights
+
+📊 Key Insights
+
+Borrowers with poor credit history → highest default risk
+
+High loan-to-income ratio strongly linked to defaults
+
+Default risk modeling helps prioritize loan approval strategies
+
+🔗 GitHub Repo: https://github.com/vicky-data/Bank-Loan-Default-Prediction.git
