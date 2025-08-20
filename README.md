@@ -20,11 +20,11 @@ Email – 95vigneshtmn@gmail.com
 # ✅ Project 1: Vendor Performance Analysis
 ## 🛒 Vendor Performance Analysis – Retail/Wholesale
 
-Python | Power BI | SQL | EDA
+### Python | Power BI | SQL | EDA
 
 This project analyzes vendor performance, inventory turnover, and profitability in the retail/wholesale industry. The goal is to help businesses optimize profitability, reduce risks from vendor dependency, and improve operational efficiency.
 
-📑 Business Problem
+#### 📑 Business Problem
 
 Underperforming vendors dragging profitability
 
@@ -34,7 +34,7 @@ High holding costs due to slow-moving inventory
 
 Profitability variance across vendors
 
-🔎 Key Insights
+#### 🔎 Key Insights
 
 Top 10 vendors contribute 65.7% of purchases → dependency risk
 
@@ -46,7 +46,7 @@ Low-volume vendors have pricing inefficiencies despite higher margins
 
 Statistical tests confirmed significant profitability differences
 
-📊 Visual Insights
+#### 📊 Visual Insights
 
 Correlation heatmaps (sales, profit, cost)
 
@@ -56,7 +56,7 @@ Vendor-level performance comparison
 
 Power BI Dashboard with interactive drill-downs
 
-🚀 Recommendations
+#### 🚀 Recommendations
 
 Diversify vendor base to reduce dependency
 
@@ -73,11 +73,11 @@ Boost marketing/distribution for weak vendors
 # ✅ Project 2: Customer Churn Analysis
 ## 📉 Customer Churn Dashboard with ML
 
-Python | Power BI | SQL | EDA | ML
+### Python | Power BI | SQL | EDA | ML
 
 This project predicts customer churn using machine learning and presents insights in an interactive Power BI dashboard.
 
-📊 Key Findings
+#### 📊 Key Findings
 
 Churn Rate: 27% (needs urgent attention)
 
@@ -91,13 +91,13 @@ Geography: J&K, Assam, Jharkhand have highest churn rates
 
 Services: Lack of device protection/tech support correlates with higher churn
 
-🔮 Prediction Model
+#### 🔮 Prediction Model
 
 Logistic Regression & Random Forest used
 
 Identified 377 high-risk customers with attributes like monthly charge, tenure, payment type
 
-💡 Recommendations
+#### 💡 Recommendations
 
 Convert customers to annual contracts with discounts
 
@@ -114,11 +114,11 @@ Investigate low-charge, high-referral customers leaving → possible dissatisfac
 # ✅ Project 3: Bank Loan Analysis
 ## 🏦 Loan Application & Risk Analysis
 
-SQL | Power BI
+### SQL | Power BI
 
 This project focuses on analyzing loan applications to uncover trends in borrower behavior and repayment patterns.
 
-📈 High-Level Metrics
+#### 📈 High-Level Metrics
 
 Total Loan Applications: 38.6K
 
@@ -130,7 +130,7 @@ Avg Interest Rate: 12%
 
 Avg DTI: 13.3%
 
-🔎 Key Insights
+#### 🔎 Key Insights
 
 Loan demand nearly doubled in one year
 
@@ -142,7 +142,7 @@ Largest group: applicants with 10+ years of employment
 
 Geographic concentration: Eastern & Central U.S.
 
-💡 Business Impact
+#### 💡 Business Impact
 
 Focus product offerings on debt consolidation
 
@@ -157,11 +157,11 @@ Target acquisition campaigns in high-demand regions
 # ✅ Project 4: Loan Default Prediction
 ## ⚠️ Loan Default Risk Modeling
 
-Python | EDA | ML
+### Python | EDA | ML
 
 Financial institutions face significant challenges in managing credit risk. This project predicts likelihood of borrower default using historical loan data.
 
-🎯 Objectives
+#### 🎯 Objectives
 
 Identify high-risk borrowers
 
@@ -169,7 +169,7 @@ Enable better credit decision-making
 
 Reduce financial losses from defaults
 
-🛠 Workflow
+#### 🛠 Workflow
 
 Data Cleaning & Preparation
 
@@ -179,7 +179,7 @@ Feature Engineering
 
 Model Development & Insights
 
-📊 Key Insights
+#### 📊 Key Insights
 
 Borrowers with poor credit history → highest default risk
 
