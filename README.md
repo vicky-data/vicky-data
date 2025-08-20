@@ -1,4 +1,4 @@
-👋 Hi, I’m Vigneshwaran (@vicky-data)
+# 👋 Hi, I’m Vigneshwaran (@vicky-data)
 
 👀 I’m interested in Data Analytics, Business Intelligence, BFSI Analytics, and solving real-world business problems with data.
 
@@ -17,8 +17,8 @@ Email – 95vigneshtmn@gmail.com
 
 ⚡ Fun fact: I started my journey in civil engineering but pivoted to data analytics to uncover insights that impact millions. I love storytelling with data just as much as building models.
 
-✅ Project 1: Vendor Performance Analysis
-🛒 Vendor Performance Analysis – Retail/Wholesale
+# ✅ Project 1: Vendor Performance Analysis
+## 🛒 Vendor Performance Analysis – Retail/Wholesale
 
 Python | Power BI | SQL | EDA
 
@@ -70,8 +70,8 @@ Boost marketing/distribution for weak vendors
 
 🔗 GitHub Repo: https://github.com/vicky-data/Vendor-Performance-Analysis..git
 
-✅ Project 2: Customer Churn Analysis
-📉 Customer Churn Dashboard with ML
+# ✅ Project 2: Customer Churn Analysis
+## 📉 Customer Churn Dashboard with ML
 
 Python | Power BI | SQL | EDA | ML
 
@@ -111,8 +111,8 @@ Investigate low-charge, high-referral customers leaving → possible dissatisfac
 
 🔗 GitHub Repo: https://github.com/vicky-data/Customer-Churn-Analysis---Project.git
 
-✅ Project 3: Bank Loan Analysis
-🏦 Loan Application & Risk Analysis
+# ✅ Project 3: Bank Loan Analysis
+## 🏦 Loan Application & Risk Analysis
 
 SQL | Power BI
 
@@ -154,8 +154,8 @@ Target acquisition campaigns in high-demand regions
 
 🔗 GitHub Repo: https://github.com/vicky-data/Bank-Loan-Analysis-project.git
 
-✅ Project 4: Loan Default Prediction
-⚠️ Loan Default Risk Modeling
+# ✅ Project 4: Loan Default Prediction
+## ⚠️ Loan Default Risk Modeling
 
 Python | EDA | ML
 
