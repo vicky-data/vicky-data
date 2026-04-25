@@ -1,21 +1,39 @@
-# 👋 Hi, I’m Vigneshwaran (@vicky-data)
+👋 Hi, I’m Vigneshwaran (@vicky-data)
 
-👀 I’m interested in Data Analytics, Business Intelligence, BFSI Analytics, and solving real-world business problems with data.
+🚀 I work as an AI/ML Engineer focused on building real-world applications using Generative AI, LLMs, and intelligent data systems.
 
-🌱 I’m currently learning advanced analytics, time series forecasting, and Generative AI to enhance my portfolio.
+👀 I’m interested in:
+- Generative AI & LLM Applications  
+- Retrieval-Augmented Generation (RAG) Systems  
+- Multi-Agent Systems & A2A Communication  
+- AI-driven Automation & Decision Systems  
 
-💼 I’ve built projects in vendor analysis, churn analytics, financial data analysis, and credit risk modeling — focused on delivering actionable business insights.
+🌱 I’m currently working on:
+- Building scalable RAG pipelines with vector databases  
+- Designing multi-agent workflows for complex task automation  
+- Improving LLM performance using prompt engineering and evaluation techniques  
 
-💞️ I’m looking to collaborate on real-world analytics and ML projects, especially in finance, retail, or supply chain domains.
+💼 I’ve built:
+- End-to-end RAG systems for enterprise knowledge retrieval  
+- Multi-agent AI systems for autonomous workflows  
+- LLM-powered analytics tools (Text-to-SQL, decision support systems)  
+- Machine learning models for financial forecasting and risk analysis  
 
-📫 How to reach me:
-LinkedIn – linkedin.com/in/vicky-data
+🧠 My approach:
+I focus on solving problems from a **systems perspective** — not just training models, but designing scalable, production-ready AI pipelines that work in real-world environments.
 
-Email – 95vigneshtmn@gmail.com
+💞️ I’m open to collaborating on:
+- Generative AI / LLM projects  
+- AI automation systems  
+- Applied ML problems in finance, retail, and enterprise workflows  
 
-😄 Pronouns: He/Him
+📫 How to reach me:  
+LinkedIn – linkedin.com/in/vigneshwaran-palanisamy  
+Email – 95vigneshtmn@gmail.com  
 
-⚡ Fun fact: I started my journey in civil engineering but pivoted to data analytics to uncover insights that impact millions. I love storytelling with data just as much as building models.
+😄 Pronouns: He/Him  
+
+⚡ Fun fact: I started my career in civil engineering and transitioned into AI/ML to build systems that can automate decisions and scale impact across industries.
 
 # ✅ Project 1: Vendor Performance Analysis
 ## 🛒 Vendor Performance Analysis – Retail/Wholesale
